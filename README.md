@@ -16,7 +16,7 @@ Start Minikube and enable metrics server:
 minikube start
 minikube addons enable metrics-server
 
-🌐 Step 1: Create a CPU-Intensive Deployment
+## 🌐 Step 1: Create a CPU-Intensive Deployment
 
 Create a file called cpu-app.yaml:
 
